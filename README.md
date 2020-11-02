@@ -1,8 +1,8 @@
 # Vortovolio
 
-a clean user interface portfolio website
+a clean UI portfolio template
 
-## Assets Usage
+## Assets library Usage
 
 - BoxIcons
 - ScrollReveal
