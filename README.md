@@ -2,7 +2,7 @@
 
 a clean UI portfolio template
 
-## Assets library Usage
+## Assets library
 
 - BoxIcons
 - ScrollReveal
